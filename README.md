@@ -7,7 +7,7 @@
 
 - 🔨 I’m currently working on a city builder game with [rust](https://www.rust-lang.org/) in the [bevy game engine](https://bevyengine.org/)
 - 🌱 I’m currently learning the [rust](https://www.rust-lang.org/) programming lanuage
-- 👯 I’m looking to collaborate on oon projects related to the [bevy game engine](https://bevyengine.org/)
+- 👯 I’m looking to collaborate on on projects related to the [bevy game engine](https://bevyengine.org/)
 - 📫 How to reach me: My contacts are on [my website](https://liamg.codes/#contact)
 - 😄 Pronouns: He/Him
 
