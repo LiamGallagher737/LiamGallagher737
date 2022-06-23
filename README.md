@@ -10,3 +10,6 @@
 - 👯 I’m looking to collaborate on oon projects related to the [bevy game engine](https://bevyengine.org/)
 - 📫 How to reach me: My contacts are on [my website](https://liamg.codes/#contact)
 - 😄 Pronouns: He/Him
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
