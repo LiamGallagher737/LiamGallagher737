@@ -25,3 +25,8 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiamGallagher737&theme=github-dark&hide_border=true&background=161B22)](https://git.io/streak-stats)
+<!---
+http://github-readme-streak-stats.herokuapp.com/demo/?user=LiamGallagher737&theme=github-dark&hide_border=true&date_format=&locale=en&properties=border&background=%23161B22
+-->
