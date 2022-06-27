@@ -5,7 +5,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-144b7e?style=for-the-badge&logo=steam&logoColor=white)
 <br>
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-22d88f?style=for-the-badge&logo=clion&logoColor=white)
 
