@@ -3,6 +3,7 @@
 ![Rust](https://img.shields.io/badge/rust-e53717.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-9a4993.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-144b7e?style=for-the-badge&logo=steam&logoColor=white)
 
 
 - 🔨 I’m currently working on a city builder game with [rust](https://www.rust-lang.org/) in the [bevy game engine](https://bevyengine.org/)
