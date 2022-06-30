@@ -10,7 +10,7 @@
 ![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-22d88f?style=for-the-badge&logo=clion&logoColor=white)
 
-- 🔨 I’m currently working on a city builder game with [rust](https://www.rust-lang.org/) in the [bevy game engine](https://bevyengine.org/) along with a gizmo system in the same lanuage and game engine
+- 🔨 I’m currently working on a gizmo system for the [bevy game engine](https://bevyengine.org/)
 - 🌱 I’m currently learning the [rust](https://www.rust-lang.org/) programming lanuage
 - 👯 I’m looking to collaborate on on projects related to the [bevy game engine](https://bevyengine.org/)
 - 📫 How to reach me: My contacts are on [my website](https://liamg.codes/#contact)
