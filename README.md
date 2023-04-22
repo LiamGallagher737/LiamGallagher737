@@ -18,9 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 59 mins   ████████████████████████▒   97.35 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript   4 hrs 7 mins    ██████████████████████▒░░   89.04 %
+Rust         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
