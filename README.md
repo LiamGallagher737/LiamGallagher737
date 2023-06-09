@@ -14,6 +14,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-22d88f?style=for-the-badge&logo=clion&logoColor=white)
+<br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <!--START_SECTION:waka-->
 
