@@ -1,4 +1,4 @@
-# Hey there, I'm Liam 👋
+# Liam Gallagher
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sveltekit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
@@ -20,26 +20,4 @@
 <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<!--START_SECTION:waka-->
-
-```txt
-Svelte         6 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.46 %
-TypeScript     2 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-XML            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-C#             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Rust           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-```
-
-<!--END_SECTION:waka-->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiamGallagher737&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiamGallagher737&theme=github-dark&hide_border=true&background=161B22)](https://git.io/streak-stats)
-<!---
-http://github-readme-streak-stats.herokuapp.com/demo/?user=LiamGallagher737&theme=github-dark&hide_border=true&date_format=&locale=en&properties=border&background=%23161B22
--->
-
-<!---
-Steam logo for later use
-![Steam](https://img.shields.io/badge/Steam-144b7e?style=for-the-badge&logo=steam&logoColor=white)
--->
